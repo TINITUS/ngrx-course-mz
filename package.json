@@ -29,7 +29,6 @@
     "@ngrx/effects": "^15.0.0",
     "@ngrx/entity": "^15.0.0",
     "@ngrx/router-store": "^15.0.0",
-    "@ngrx/store": "^15.0.0",
     "@ngrx/store-devtools": "^15.0.0",
     "body-parser": "^1.18.2",
     "core-js": "^2.4.1",
@@ -38,7 +37,8 @@
     "moment": "^2.22.2",
     "rxjs": "^6.5.4",
     "tslib": "^2.0.0",
-    "zone.js": "~0.11.4"
+    "zone.js": "~0.11.4",
+    "@ngrx/store": "^15.0.0"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^15.0.2",
